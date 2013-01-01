@@ -1,0 +1,4 @@
+in  egocentric reco, we're incrementing the weights of the neighbors by 1. But I think we'll have to increment it by the importance of the attribute that the user gives to each of the attribute.
+
+a possible modification to the getRealNeighbors function for compatibility?
+

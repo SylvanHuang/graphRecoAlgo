@@ -1,0 +1,17 @@
+http://www10.org/cdrom/papers/519/ - A research paper titles "Item-Based Collaborative Filtering Recommendation Algorithms"
+    look for evaluation metrics - probably next
+
+http://markorodriguez.com/2011/09/22/a-graph-based-movie-recommender-engine/
+    A graph based movie recommender system
+
+http://sharonmyrtle.com/Projects/IMRS/code/aboutus.html
+    Indian Movie Recommender System
+
+http://www.southasianuniversity.org/staticpages/Faculties/FMCS/csnew/vivek/miwai2011.pdf
+    Combining collaborative filtering and sentiment classification for improved movie recommendations:
+
+http://galitshmueli.com/system/files/IndianMovieRatingsIMDB-REPORT.pdf
+    Predicting Indian movie ratings based on IMDB:
+    
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.5270&rep=rep1&type=pdf
+    Evaluation for collaborative filtering based recommendation systems:
